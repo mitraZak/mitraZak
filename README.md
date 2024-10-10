@@ -3,10 +3,11 @@ Hi everyone! Welcome to my GitHub profile! 👋
 I'm Mitra, an electrical engineer passionate about learning, learning, and learning. 
 ## 🔍 I'm interested in:
 - Data Analysis and Visualization
-- Internet of Things 
-- Embedded Systems
+- Neuroscience
 - Signal Processing
 - Machine Learning
+- Internet of Things 
+- Embedded Systems
 ## Let's Connect!
 Feel free to [Email](mailto:mitrazkri79@gmail.com) me if you'd like to collaborate or discuss interesting projects!
 
